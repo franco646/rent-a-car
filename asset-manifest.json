@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sistema-de-alquiler-de-autos/static/css/main.06a26188.chunk.css",
+    "main.css": "/sistema-de-alquiler-de-autos/static/css/main.e5a75caf.chunk.css",
     "main.js": "/sistema-de-alquiler-de-autos/static/js/main.43534bb3.chunk.js",
     "main.js.map": "/sistema-de-alquiler-de-autos/static/js/main.43534bb3.chunk.js.map",
     "runtime-main.js": "/sistema-de-alquiler-de-autos/static/js/runtime-main.f2d58193.js",
@@ -10,13 +10,13 @@
     "static/js/3.66d6804f.chunk.js": "/sistema-de-alquiler-de-autos/static/js/3.66d6804f.chunk.js",
     "static/js/3.66d6804f.chunk.js.map": "/sistema-de-alquiler-de-autos/static/js/3.66d6804f.chunk.js.map",
     "index.html": "/sistema-de-alquiler-de-autos/index.html",
-    "static/css/main.06a26188.chunk.css.map": "/sistema-de-alquiler-de-autos/static/css/main.06a26188.chunk.css.map",
+    "static/css/main.e5a75caf.chunk.css.map": "/sistema-de-alquiler-de-autos/static/css/main.e5a75caf.chunk.css.map",
     "static/js/2.b3037586.chunk.js.LICENSE.txt": "/sistema-de-alquiler-de-autos/static/js/2.b3037586.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f2d58193.js",
     "static/js/2.b3037586.chunk.js",
-    "static/css/main.06a26188.chunk.css",
+    "static/css/main.e5a75caf.chunk.css",
     "static/js/main.43534bb3.chunk.js"
   ]
 }
